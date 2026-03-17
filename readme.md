@@ -33,3 +33,4 @@ Many games are also now using addressables. You can tell if the bundle you're op
 - [ImageSharp](https://github.com/SixLabors/ImageSharp) (Apache License 2.0)
 - [Fsb5Sharp](https://github.com/SamboyCoding/Fmod5Sharp) (MIT license)
 - [Font Awesome](https://fontawesome.com) (CC BY 4.0 license)
+- e
